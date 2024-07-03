@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GiftItem /> Debe de hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="grid-gallery__item"
+  >
+    <img
+      alt="Patrick"
+      class="grid-gallery__image"
+      src="https://kelevo.com/kelevo.png"
+    />
+  </div>
+</div>
+`;
